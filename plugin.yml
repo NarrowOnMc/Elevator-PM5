@@ -1,0 +1,6 @@
+name: Elevateur-PM5
+version: PRIVATE
+api: [ 5.0.0 ]
+main: Narrow\Main
+author: Narrow
+description: Un plugin créer par Narrow dédier au serveur Evalium. Il sert à aller presque n'importe où !
